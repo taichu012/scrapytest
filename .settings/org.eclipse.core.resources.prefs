@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//ct/cctool.py=utf-8
+encoding//myScrapy/douban/douban/items.py=utf-8
+encoding//myScrapy/douban/douban/pipelines.py=utf-8
+encoding//myScrapy/douban/douban/settings.py=utf-8
+encoding//myScrapy/douban/douban/spiders/douban_spider.py=utf-8
+encoding//myScrapy/s1/s1/items.py=utf-8
+encoding//myScrapy/s1/s1/pipelines.py=utf-8
+encoding//myScrapy/s1/s1/settings.py=utf-8
+encoding//myScrapy/s1/s1/spiders/dmoz_spider.py=utf-8

@@ -1,0 +1,28 @@
+﻿++++++++++++++++
+Release Notes:
+Author：taichu
+++++++++++++++++
+
+
+Ed0.0.1（2016-06-29）-（2016-07-13）
+----------------------------
+REQ0001:将项目导入eclipse的pydev中；
+
+
+
+
+
+
+++++++++++++++++
+TODOLIST: 
+++++++++++++++++
+
+1.【OPEN】编译：不小心删除全部的pyc，怎么弄回？pydev不熟悉；
+2.【OPEN】编译：在配置pydev的python解析器的时候已经找到并解析了userlib.pth文件包含的本项目3个目录，
+ 	  			为啥还是无法启动douban_sprider.py呢？报错是解析不到items module，但明明已经有了
+ 	  			__init__.py了，而且类似的ct目录下的ctool module就能找到；非常奇怪！
+
+
+	  
+	  
+	  

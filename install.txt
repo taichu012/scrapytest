@@ -1,0 +1,2 @@
+#copy userlib.pth（只要符合XXX.pth就行） to python (AUTO-SCAN) lib folder 下，最好是放在
+诸如 'G:\Python27\Lib\site-packages';则运行时会被python解析器读取相关模块，才能被调用；

@@ -1,0 +1,1 @@
+#copy ¡®userlib.pth¡¯ to python (AUTO-SCAN) lib folder like 'G:\Python27\Lib\site-packages';

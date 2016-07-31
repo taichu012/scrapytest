@@ -1,0 +1,39 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Apr 04 08:03:45 2016
+
+@author: User
+"""
+
+from cctool import ct
+import unittest   
+      
+class ctTest(unittest.TestCase):
+    """
+    test case for class 'ct'
+    """
+
+    def setUp(self):
+        pass
+    
+    def tearDown(self):
+        pass
+    
+    def test_list2str_iptlist(self):
+        text = ['1','2','3']
+        result = ct.list2str(text)
+        self.assertEqual(result, '[123]')
+        
+    def test_list2str_iptint(self):
+        i = 123
+        result = ct.list2str(i)
+        self.assertEqual(result, '')
+        
+    #def test1():
+    #    print 'test1() run and do nothing!'
+
+#Below line MUST BE START AT FIRST COL!!!!!!!!!!!!!!!!!!!!!!!!!    
+if __name__=='__main__':  
+      unittest.main() 
+      
+      
